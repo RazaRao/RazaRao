@@ -1,6 +1,7 @@
 <img height=350px width=850px src="https://www.mindstask.com/en/wp-content/uploads/2020/08/frontendSmallBanner.jpg">
 <h1 align="center">Hi 👋, I'm RazaRao</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align=right width=400px src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razarao&label=Profile%20views&color=0e75b6&style=flat" alt="razarao" /> </p>
 
