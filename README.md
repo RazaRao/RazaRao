@@ -1,4 +1,4 @@
-<img src="https://www.mindstask.com/en/wp-content/uploads/2020/08/frontendSmallBanner.jpg">
+<img width=400px src="https://www.mindstask.com/en/wp-content/uploads/2020/08/frontendSmallBanner.jpg">
 <h1 align="center">Hi 👋, I'm RazaRao</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
